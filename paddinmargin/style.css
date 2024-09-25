@@ -1,0 +1,10 @@
+
+p{
+
+    border: 5px solid black;
+    margin: 80px; 
+    /* outside border */
+    padding: 60px;
+    /* between border and content */
+
+}

@@ -1,0 +1,38 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: wheat;
+}
+
+main{
+    display: flex;
+}
+div{
+    width: 200px;
+    height: 200px;
+}
+
+#box1{
+    background-color: aqua;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+#box2{
+    background-color: red;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+#box3{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+}

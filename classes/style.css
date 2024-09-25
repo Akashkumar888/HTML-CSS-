@@ -1,0 +1,16 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.classFont{
+    color: blue;
+    text-align: center;
+    font-weight:bold ;
+}
+h2{
+    margin: 10px;
+    padding: 10px; 
+    background-color: aqua;
+}
